@@ -1,0 +1,10 @@
+1) Desenvolva uma aplicação em Java que funcione como uma calculadora básica.
+A aplicação deve permitir ao usuário inserir dois números e escolher uma operação
+entre adição, subtração, multiplicação e divisão. Após a escolha da operação,
+a aplicação deve calcular e exibir o resultado correspondente.
+
+2) Melhore a aplicação de calculadora desenvolvida na questão anterior. Após exibir o resultado de
+cada operação, apresente um menu que permita ao usuário optar por continuar realizando cálculos
+ou encerrar o programa. Ao encerrar, a aplicação deve exibir a contagem individual de cada tipo
+de operação realizada (adição, subtração, multiplicação e divisão) e o total geral de operações executadas.
+
